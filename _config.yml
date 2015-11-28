@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://fabiosimeoni.github.io
+title: Fabio Simeoni
+tagline: Codeine
+description: My awesome new site
+paginate: 5
